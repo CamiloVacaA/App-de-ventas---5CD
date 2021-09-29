@@ -1,2 +1,3 @@
-# App-de-ventas---5CD
-Aplicación de ventas de empresa manufacturera de impresión 3D - Ruta 2 MisiónTIC 2022
+# Prueba
+
+Prueba de creación de repositorio- Ruta 2 MisiónTIC 2022
